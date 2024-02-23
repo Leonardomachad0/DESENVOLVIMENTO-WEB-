@@ -1,0 +1,18 @@
+https://www.python.org/ python é uma linguagem de programação de alto nivel, orientada a objeto que oferece uma gama de possibilidades parar o desenvolvimento
+como desenvolver web, analise de dados, automação de tarefas, na segurança e muitas outras como por exemplo com as IA.
+Tem referencia com os topicos 1, 4, 7,8
+
+https://code.visualstudio.com/learn VS code é um editor de texto que oferece um suporte para diversas linguagem de programação.
+Tem referencia com os topicos 4, 5, 6, 7
+
+https://pt.wikipedia.org/wiki/Git O Git permite que desenvolvedores acompanhem as mudanças em seus projetos de software ao longo do tempo. Ele mantém um histórico completo de todas as alterações feitas nos arquivos, permitindo que você volte para versões anteriores do código, se necessário. Tem referencia com os topicos 2, 3, 4
+
+
+https://sqlitebrowser.org/ é uma ferramenta de código aberto que permite visualizar, editar e gerenciar bancos de dados SQLite. O SQLite é um banco de dados leve e autônomo amplamente utilizado em aplicativos móveis, navegadores da web, sistemas de gerenciamento de dados embutidos e outros contextos onde é necessário armazenar dados de forma eficiente e sem a necessidade de um servidor de banco de dados separado.
+Tem referencia com os topicos 8,9,10
+
+https://www.google.com/intl/pt-BR/chrome/ O Google Chrome é um navegador da web desenvolvido pela Google. Ele foi lançado pela primeira vez em setembro de 2008 para Microsoft Windows e mais tarde foi portado para Linux, macOS, iOS e Android. O Chrome é conhecido por sua velocidade, simplicidade e interface de usuário limpa.
+Tem referencia com os topicos 2, 3, 10
+
+https://www.techtudo.com.br/tudo-sobre/safari/ Safari é um navegador da web desenvolvido pela Apple. Ele é o navegador padrão em dispositivos macOS.
+Tem referencia topicos 2, 3, 10
