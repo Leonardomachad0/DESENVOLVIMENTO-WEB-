@@ -1,3 +1,5 @@
+DESENVOLVIMENTO WEB - 2º período - 2024
+
 https://www.python.org/ python é uma linguagem de programação de alto nivel, orientada a objeto que oferece uma gama de possibilidades parar o desenvolvimento
 como desenvolver web, analise de dados, automação de tarefas, na segurança e muitas outras como por exemplo com as IA.
 Tem referencia com os topicos 1, 4, 7,8
