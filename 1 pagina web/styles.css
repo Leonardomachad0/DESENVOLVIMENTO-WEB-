@@ -1,0 +1,5 @@
+p {
+    color: purple; /* Alterando a cor do texto para roxo */
+    font-weight: bold; /* Definindo negrito */
+    text-transform: uppercase; /* Transformando o texto em maiúsculas */
+}
