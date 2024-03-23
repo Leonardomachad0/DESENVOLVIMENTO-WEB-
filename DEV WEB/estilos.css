@@ -1,0 +1,52 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.minha-div {
+    background-color: #ff0000;
+}
+
+.conteudo {
+    overflow: hidden;
+}
+
+.imagem {
+    float: left;
+    margin-right: 20px;
+}
+
+.video {
+    float: left;
+}
+
+audio {
+    clear: both;
+}
+
+.tamanho-fixo {
+    width: 200px;
+    height: 100px;
+    background-color: #ccc;
+}
+
+.tamanho-relativo {
+    width: 50%;
+    height: 50%;
+    background-color: #f0f0f0;
+}
+
+.negrito-azul {
+    background-color: #add8e6;
+    padding: 10px;
+}
+
+.negrito-azul span {
+    font-weight: bold;
+    color: red;
+}
